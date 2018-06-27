@@ -1,0 +1,8 @@
+.udacity-text {
+    /* add CSS here */
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-decoration-line: underline;
+    color: #8001ff;
+    font-size: 60px;
+}
